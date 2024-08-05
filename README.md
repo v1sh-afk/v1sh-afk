@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [VoiceCraftAI, an AI-based multilingual tool](https://github.com/HallowSiddharth/VoiceCraftAI)
 
-- 🌱 I’m currently learning **react, postgreSQL**
+- 🌱 I’m currently learning **React.js, PostgreSQL**
 
-- 💬 Ask me about **python, vue, HTML, CSS, JavaScript**
+- 💬 Ask me about **Python, Vue.js, HTML, CSS, JavaScript**
 
 - 📫 How to reach me **vishalprakaash03@gmail.com**
 
